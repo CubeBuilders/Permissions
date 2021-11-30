@@ -40,6 +40,9 @@ if plugin Essentials
   permit plus essentials.back.ondeath
   permit plus essentials.teleport.timer.bypass
   permit plus essentials.keepxp
+  if server == creative
+    permit plus essentials.skull
+    permit plus essentials.skull.*
   permit pluspaid essentials.sethome.multiple
   permit pluspaid essentials.sethome.multiple.emerald
 
