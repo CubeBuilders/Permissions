@@ -1,0 +1,2 @@
+if plugin RedstoneClockDetector
+  permit admin redstoneclockdetector.*

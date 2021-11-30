@@ -1,0 +1,4 @@
+if plugin HeadDatabase
+  if server == creative
+    permit default headdb.open
+

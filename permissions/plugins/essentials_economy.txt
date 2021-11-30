@@ -1,0 +1,7 @@
+if plugin Essentials____ECONOMY__remove_this_extra_crap_xD
+  permit default essentials.balance
+  permit default essentials.balance.others
+  permit default essentials.balancetop
+  permit default essentials.pay
+
+  

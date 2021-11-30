@@ -1,0 +1,12 @@
+member		default		Guest		dark_gray
+member		member		Member		dark_green
+member		retired		Member		dark_green
+member		plus		Plus		gold
+member		pluspaid	Plus		gold
+
+staff		helper		Helper		blue
+staff		moderator	Moderator	dark_purple
+staff		admin		Admin		red
+staff		manager		Manager		dark_aqua
+staff		coowner		Co-Owner	light_purple
+staff		owner		Owner		light_purple

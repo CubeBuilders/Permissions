@@ -1,0 +1,63 @@
+if server == bungee
+
+  permit default bungeecord.command.server
+  permit default bungeecord.command.list
+  permit default hk.siggi.bungeechat.seen
+  permit default hk.siggi.bungeechat.chat.link
+
+  permit retired cubebuilders.staffchat
+
+  permit plus hk.siggi.bungeechat.bypasschatratelimit
+  permit plus hk.siggi.bungeechat.chat.color
+  permit plus hk.siggi.bungeechat.chat.format
+  permit pluspaid hk.siggi.bungeechat.nick
+  permit pluspaid hk.siggi.bungeechat.mcbanexempt
+
+  permit helper cubebuilders.staffchat
+  permit helper hk.siggi.bungeechat.punishmentalert
+  permit helper hk.siggi.bungeechat.warn
+  permit helper hk.siggi.bungeechat.mute
+  permit helper bungeecord.command.find
+  permit helper hk.siggi.bungeechat.seeprosecutor
+  permit helper hk.siggi.bungeechat.silentmute
+  permit helper hk.siggi.bungeechat.mcbanexempt
+  permit helper hk.siggi.bungeechat.ignoreexempt
+  permit helper hk.siggi.bungeechat.ignorenotallowed
+
+  permit moderator hk.siggi.bungeechat.bypasschatratelimit
+  permit moderator hk.siggi.bungeechat.groupchatbypass
+  permit moderator hk.siggi.bungeechat.nofiltercaps
+  permit moderator hk.siggi.bungeechat.spy
+  permit moderator hk.siggi.bungeechat.permanentmute
+  permit moderator hk.siggi.bungeechat.ban
+  permit moderator hk.siggi.bungeecord.logintohub.directaccessany
+  permit moderator hk.siggi.bungeechat.vanish
+  permit moderator hk.siggi.logintohub.seehiddenplayers
+  permit moderator hk.siggi.bungeechat.allowchatlog
+  permit moderator hk.siggi.bungeechat.seenip
+  permit moderator hk.siggi.bungeechat.nick
+  permit moderator hk.siggi.bungeechat.chat.color
+  permit moderator hk.siggi.bungeechat.chat.format
+  permit moderator hk.siggi.bungeechat.chat.magic
+  permit moderator hk.siggi.bungeechat.chat.commandlink
+  permit moderator hk.siggi.bungeechat.chat.nonweblink
+  permit moderator hk.siggi.bungeechat.speedalert
+  permit moderator hk.siggi.bungeechat.minewatch
+
+  permit admin bungeecord.command.send
+  permit admin hk.siggi.bungeechat.bypassbukkitblock
+  permit admin hk.siggi.bungeechat.nickother
+  permit admin hk.siggi.bungeechat.reload
+  permit admin hk.siggi.bungeechat.dontkickme
+  permit admin hk.siggi.bungeechat.passthrough
+  permit admin bungeecord.command.alert
+
+  permit manager hk.siggi.bungeechat.strike
+  permit manager hk.siggi.bungeechat.setgroup
+
+  permit coowner bungeecord.command.end
+  permit coowner bungeecord.command.ip
+  permit coowner bungeecord.command.reload
+  permit coowner hk.siggi.bungeechat.antispy
+  permit coowner hk.siggi.bungeechat.impersonate
+  permit coowner hk.siggi.bungeechat.fakeip

@@ -1,0 +1,3 @@
+if plugin SiggiEconomy
+
+  permit admin io.siggi.economy.adjust

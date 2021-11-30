@@ -1,0 +1,10 @@
+if plugin Skyblock
+  permit admin hk.siggi.skyblock.addtoothers
+  permit admin hk.siggi.skyblock.bypass
+  permit admin hk.siggi.skyblock.bypasscooldown
+  permit admin hk.siggi.skyblock.editothers
+  permit admin hk.siggi.skyblock.giveothers
+  permit moderator hk.siggi.skyblock.gotoany
+  permit moderator hk.siggi.skyblock.kickfromothers
+  permit admin hk.siggi.skyblock.load
+  permit admin hk.siggi.skyblock.sethomeothers

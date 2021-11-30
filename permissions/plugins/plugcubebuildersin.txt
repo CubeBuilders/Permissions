@@ -1,0 +1,21 @@
+if plugin PlugCubeBuildersIn
+
+  permit admin hk.siggi.plugcubebuildersin.autoframe
+  permit admin hk.siggi.plugcubebuildersin.bounty.clean
+  permit admin hk.siggi.bukkit.superduper.superduper
+
+  permit helper hk.siggi.plugcubebuildersin.cheat
+  permit moderator hk.siggi.plugcubebuildersin.clearchat
+
+  permit admin hk.siggi.plugcubebuildersin.closetheend
+  permit admin hk.siggi.plugcubebuildersin.snaptogrid
+
+  permit moderator hk.siggi.plugcubebuildersin.replay
+  permit moderator hk.siggi.plugcubebuildersin.seehiddenplayers
+  permit moderator hk.siggi.plugcubebuildersin.signedit
+  permit helper hk.siggi.plugcubebuildersin.spawneditems
+  permit admin hk.siggi.plugcubebuildersin.speedup
+
+  permit plus hk.siggi.plugcubebuildersin.silktouchspawner
+  permit pluspaid hk.siggi.plugcubebuildersin.skins.donatorslots
+

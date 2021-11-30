@@ -1,0 +1,6 @@
+if plugin Statues
+  permit admin hk.siggi.statues.createsign
+  permit admin hk.siggi.statues.create
+  permit admin hk.siggi.statues.delete
+  permit admin hk.siggi.statues.reload
+  permit admin hk.siggi.statues.resave

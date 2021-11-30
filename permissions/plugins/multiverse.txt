@@ -1,0 +1,4 @@
+if plugin Multiverse-Core
+  permit default multiverse.access.*
+  permit admin multiverse.core.*
+  permit admin multiverse.teleport.*

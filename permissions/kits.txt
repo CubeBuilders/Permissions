@@ -1,0 +1,12 @@
+if plugin Essentials
+  permit default essentials.kit
+
+  permit default essentials.kits.tools
+  permit default essentials.kits.claimshovel
+
+  permit plus essentials.kits.raid
+  permit plus essentials.kits.color
+
+  permit moderator essentials.kit.exemptdelay
+
+  permit admin essentials.kits.*

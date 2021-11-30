@@ -1,0 +1,21 @@
+# paid membership ranks:
+# plus, pluspaid
+# plus includes both free trial and paid, and pluspaid is paid only.
+
+# staff ranks:
+# helper, moderator, admin, manager, coowner, owner
+
+setparent member default
+setparent plus member
+setparent pluspaid plus
+setparent retired member
+setparent helper member
+setparents moderator helper pluspaid
+setparent admin moderator
+setparent manager admin
+setparent coowner manager
+setparent owner coowner
+
+
+if server == creative
+  setparent worldeditfull worldeditro

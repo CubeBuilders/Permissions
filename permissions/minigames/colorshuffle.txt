@@ -1,0 +1,10 @@
+if plugin ColorShuffle
+  permit default colorshuffle.list
+  permit admin colorshuffle.admin
+  permit admin colorshuffle.backup
+  permit admin colorshuffle.close
+  permit admin colorshuffle.open
+  permit admin colorshuffle.rename
+  permit admin colorshuffle.restore
+  permit admin colorshuffle.setup
+  permit admin colorshuffle.start

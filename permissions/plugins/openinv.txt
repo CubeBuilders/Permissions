@@ -1,0 +1,2 @@
+if plugin OpenInv
+  permit admin OpenInv.*

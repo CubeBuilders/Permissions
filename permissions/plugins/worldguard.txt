@@ -1,0 +1,3 @@
+if plugin WorldGuard
+  permit admin worldguard.*
+  permit admin worldguard.region.bypass.*

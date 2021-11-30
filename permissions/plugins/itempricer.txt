@@ -1,0 +1,6 @@
+if plugin ItemPricer
+  permit admin itempricer.getprice
+  permit admin itempricer.setprice
+  permit helper itempricer.recipes
+  permit admin itempricer.dumpprices
+  permit admin itempricer.reload

@@ -1,0 +1,2 @@
+if plugin Trading
+  permit default trading.trade

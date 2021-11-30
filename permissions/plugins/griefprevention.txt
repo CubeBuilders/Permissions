@@ -1,0 +1,17 @@
+if plugin GriefPrevention
+  permit default griefprevention.claims
+  permit default -griefprevention.buysellclaimblocks
+  permit default griefprevention.lava
+
+  permit plus griefprevention.seeinactivity
+
+  permit moderator griefprevention.seeinactivity
+  permit moderator griefprevention.eavesdropsigns
+
+  permit admin griefprevention.restorenature
+  permit admin griefprevention.restorenatureaggressive
+  permit admin griefprevention.adminclaims
+  permit admin griefprevention.claimslistother
+  permit admin griefprevention.ignoreclaims
+  permit admin griefprevention.deleteclaims
+  permit admin griefprevention.adjustclaimblocks

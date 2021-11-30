@@ -1,0 +1,2 @@
+if plugin SiggiChestShop
+  permit admin hk.siggi.bukkit.scs.admin

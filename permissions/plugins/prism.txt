@@ -1,0 +1,33 @@
+if plugin Prism
+  permit helper prism.alerts
+  permit helper prism.help
+  if server == creative
+    permit moderator prism.drain
+    permit moderator prism.extinguish
+    permit default prism.view
+    permit default prism.lookup
+    permit default prism.lookup.*
+    permit default prism.parameters.*
+    permit default prism.parameters.flag.*
+    permit helper prism.preview
+    permit moderator prism.rollback
+    permit moderator prism.setmy.*
+    permit moderator prism.tp
+    permit moderator prism.wand.*
+  else
+    permit admin prism.drain
+    permit admin prism.extinguish
+    permit admin prism.lookup
+    permit admin prism.lookup.*
+    permit admin prism.parameters.*
+    permit admin prism.parameters.flag.*
+    permit admin prism.preview
+    permit admin prism.rollback
+    permit admin prism.setmy.*
+    permit admin prism.tp
+    permit admin prism.view
+    permit admin prism.wand.*
+  permit admin prism.override-max-applier-radius
+  permit admin prism.override-max-lookup-radius
+  permit admin prism.reload
+  permit admin prism.report

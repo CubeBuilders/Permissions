@@ -1,0 +1,2 @@
+if plugin ViaVersion
+  permit admin viaversion.admin

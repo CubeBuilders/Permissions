@@ -1,0 +1,2 @@
+if plugin EntityTarget
+  permit admin entitytarget.target

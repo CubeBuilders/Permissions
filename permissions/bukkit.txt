@@ -1,0 +1,11 @@
+if server != bungee
+  permit default -bukkit.command.version
+  permit default -bukkit.command.plugins
+  permit default -minecraft.command.me
+  permit default -minecraft.command.tell
+  permit admin bukkit.command.tps
+  permit admin bukkit.command.version
+  permit admin bukkit.command.plugins
+  permit admin minecraft.command.effect
+  permit owner minecraft.command.op
+

@@ -1,0 +1,3 @@
+if plugin Splurge
+  permit admin splurge.admin
+  permit default splurge.join

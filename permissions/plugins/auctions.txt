@@ -1,0 +1,4 @@
+if plugin floAuction
+  permit default auction.bid
+  permit default auction.start
+  permit admin auction.admin

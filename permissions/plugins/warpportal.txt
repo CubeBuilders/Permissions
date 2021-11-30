@@ -1,0 +1,3 @@
+if plugin WarpPortals
+  permit admin warpportals.admin
+  permit admin warpportals.admin.*

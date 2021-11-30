@@ -1,0 +1,11 @@
+if plugin Factions
+  permit default factions.kit.fullplayer
+  permit default factions.map
+  permit admin factions.managesafezone
+  permit admin factions.sethome.any
+  permit admin factions.kit.admin
+  permit admin factions.bypass
+  permit admin factions.disband.any
+  permit admin factions.join.any
+  permit admin factions.join.others
+  permit plus cubebuilders.doublepower

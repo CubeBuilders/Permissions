@@ -1,0 +1,5 @@
+if plugin TrollCommandsPlusPlus
+  permit owner tcpp.immune
+  permit owner tcpp.control.chat
+  permit owner tcpp.control.freecam
+  permit owner tcpp.command.*

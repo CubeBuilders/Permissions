@@ -1,0 +1,8 @@
+if plugin CoreProtect
+  permit moderator coreprotect.inspect
+  permit moderator coreprotect.lookup
+  permit moderator coreprotect.rollback
+  permit moderator coreprotect.restore
+  permit moderator coreprotect.help
+  permit coowner coreprotect.purge
+  permit coowner coreprotect.reload

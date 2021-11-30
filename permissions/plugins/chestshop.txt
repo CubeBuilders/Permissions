@@ -1,0 +1,6 @@
+if plugin ChestShop
+  permit default ChestShop.shop.create
+  permit default ChestShop.shop.buy
+  permit default ChestShop.shop.sell
+  permit moderator ChestShop.moderator
+  permit admin ChestShop.admin

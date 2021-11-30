@@ -1,0 +1,2 @@
+if plugin ClaimPrize
+  permit admin claimprize.admin

@@ -1,0 +1,3 @@
+if plugin CubeTokens
+  permit admin cubetokens.check
+  permit admin cubetokens.edit

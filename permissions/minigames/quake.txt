@@ -1,0 +1,3 @@
+if plugin Quake
+  permit default Quake.shop
+  permit default Quake.player

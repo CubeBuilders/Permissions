@@ -1,0 +1,4 @@
+if plugin TrophyHeads
+  permit default trophyheads.drop
+  permit default trophyheads.info
+  permit admin trophyheads.spawn
