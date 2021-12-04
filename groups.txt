@@ -6,7 +6,7 @@ member		pluspaid	Plus		gold
 
 staff		helper		Helper		blue
 staff		moderator	Moderator	dark_purple
-staff		admin		Admin		red
+staff		admin		Admin		yellow
 staff		manager		Manager		dark_aqua
 staff		coowner		Co-Owner	light_purple
 staff		owner		Owner		light_purple
