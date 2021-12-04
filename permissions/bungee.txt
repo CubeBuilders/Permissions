@@ -50,10 +50,10 @@ if server == bungee
   permit admin hk.siggi.bungeechat.reload
   permit admin hk.siggi.bungeechat.dontkickme
   permit admin hk.siggi.bungeechat.passthrough
+  permit admin hk.siggi.bungeechat.setgroup
   permit admin bungeecord.command.alert
 
   permit manager hk.siggi.bungeechat.strike
-  permit manager hk.siggi.bungeechat.setgroup
 
   permit coowner bungeecord.command.end
   permit coowner bungeecord.command.ip
