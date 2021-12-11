@@ -40,6 +40,7 @@ if plugin Essentials
   permit plus essentials.back.ondeath
   permit plus essentials.teleport.timer.bypass
   permit plus essentials.keepxp
+  permit plus essentials.hat
   if server == creative
     permit plus essentials.skull
     permit plus essentials.skull.*
@@ -89,7 +90,6 @@ if plugin Essentials
   permit admin essentials.fly.others
   permit admin essentials.god.others
   permit admin essentials.god.pvp
-  permit admin essentials.hat
   permit admin essentials.heal.cooldown.bypass
   permit admin essentials.heal.others
   permit admin essentials.speed
