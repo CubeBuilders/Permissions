@@ -1,2 +1,4 @@
 if plugin BungeeCompass
+  permit default bungeecompass.givecompass
   permit default bungeecompass.menu
+  
