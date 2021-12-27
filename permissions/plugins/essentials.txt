@@ -44,6 +44,8 @@ if plugin Essentials
   if server == creative
     permit plus essentials.skull
     permit plus essentials.skull.*
+  if server == hub
+    permit plus essentials.fly
   permit pluspaid essentials.sethome.multiple
   permit pluspaid essentials.sethome.multiple.emerald
 
