@@ -1,8 +1,10 @@
 if plugin PersonalSpace
   permit default hk.siggi.personalspace.maxspaces.1
-  permit plus hk.siggi.personalspace.worldedit
-  permit pluspaid hk.siggi.personalspace.maxspaces.4
-  permit pluspaid hk.siggi.personalspace.generator.terrain
+  permit worldedit hk.siggi.personalspace.worldedit
+  permit bronze hk.siggi.personalspace.maxspaces.2
+  permit silver hk.siggi.personalspace.maxspaces.3
+  permit gold hk.siggi.personalspace.maxspaces.4
+  permit platinum hk.siggi.personalspace.generator.terrain
   permit moderator hk.siggi.personalspace.worldedit
   permit admin hk.siggi.personalspace.maxspaces.unlimited
   permit admin hk.siggi.personalspace.bypass
