@@ -16,6 +16,6 @@ if plugin PlugCubeBuildersIn
   permit helper hk.siggi.plugcubebuildersin.spawneditems
   permit admin hk.siggi.plugcubebuildersin.speedup
 
-  permit plus hk.siggi.plugcubebuildersin.silktouchspawner
-  permit pluspaid hk.siggi.plugcubebuildersin.skins.donatorslots
+  permit platinum hk.siggi.plugcubebuildersin.silktouchspawner
+  permit gold hk.siggi.plugcubebuildersin.skins.donatorslots
 
