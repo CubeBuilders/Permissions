@@ -34,20 +34,23 @@ if plugin Essentials
     permit default essentials.sethome.multiple
     permit default essentials.sethome.multiple.unlimited
 
-  permit plus essentials.me
-  permit plus essentials.tpahere
-  permit plus essentials.back
-  permit plus essentials.back.ondeath
-  permit plus essentials.teleport.timer.bypass
-  permit plus essentials.keepxp
-  permit plus essentials.hat
+  permit bronze essentials.tpahere
+  permit bronze essentials.back
+  permit bronze essentials.back.ondeath
   if server == creative
-    permit plus essentials.skull
-    permit plus essentials.skull.*
+    permit bronze essentials.skull
+    permit bronze essentials.skull.*
+
+  permit silver essentials.teleport.timer.bypass
+  permit silver essentials.sethome.multiple
+
+  permit gold essentials.keepxp
+  permit gold essentials.sethome.multiple.gold
+
+  permit platinum essentials.me
+  permit platinum essentials.hat
   if server == hub
-    permit plus essentials.fly
-  permit pluspaid essentials.sethome.multiple
-  permit pluspaid essentials.sethome.multiple.emerald
+    permit platinum essentials.fly
 
   permit helper essentials.vanish.see
   permit helper essentials.joinfullserver

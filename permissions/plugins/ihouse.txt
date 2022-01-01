@@ -1,5 +1,0 @@
-if plugin iHouse
-  permit plus iHouse.rent
-  permit default iHouse.list
-  permit admin iHouse.create
-  permit admin iHouse.reload
