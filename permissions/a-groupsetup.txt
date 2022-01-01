@@ -17,6 +17,7 @@ setparent manager admin
 setparent coowner manager
 setparent owner coowner
 
+setparent builder worldedit
 
 if server == creative
   setparent worldeditfull worldeditro
