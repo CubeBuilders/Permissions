@@ -8,4 +8,4 @@ if plugin Factions
   permit admin factions.disband.any
   permit admin factions.join.any
   permit admin factions.join.others
-  permit plus cubebuilders.doublepower
+  permit platinum cubebuilders.doublepower
