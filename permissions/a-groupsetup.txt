@@ -1,16 +1,17 @@
 # paid membership ranks:
-# plus, pluspaid
-# plus includes both free trial and paid, and pluspaid is paid only.
+# bronze, silver, gold, platinum
 
 # staff ranks:
 # helper, moderator, admin, manager, coowner, owner
 
 setparent member default
-setparent plus member
-setparent pluspaid plus
+setparents bronze member worldedit
+setparent silver bronze
+setparent gold silver
+setparent platinum gold
 setparent retired member
 setparent helper member
-setparents moderator helper pluspaid
+setparents moderator helper platinum
 setparent admin moderator
 setparent manager admin
 setparent coowner manager

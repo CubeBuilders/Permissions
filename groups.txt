@@ -1,8 +1,10 @@
 member		default		Guest		dark_gray
 member		member		Member		dark_green
 member		retired		Member		dark_green
-member		plus		Plus		gold
-member		pluspaid	Plus		gold
+member      bronze      Bronze      #aa7004
+member		silver		Silver		#a0b2c6
+member		gold		Gold		#d4af37
+member		platinum	Platinum	#d0f6ff
 
 staff		helper		Helper		blue
 staff		moderator	Moderator	dark_purple
