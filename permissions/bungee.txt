@@ -7,11 +7,13 @@ if server == bungee
 
   permit retired cubebuilders.staffchat
 
-  permit plus hk.siggi.bungeechat.bypasschatratelimit
-  permit plus hk.siggi.bungeechat.chat.color
-  permit plus hk.siggi.bungeechat.chat.format
-  permit pluspaid hk.siggi.bungeechat.nick
-  permit pluspaid hk.siggi.bungeechat.mcbanexempt
+  permit bronze hk.siggi.bungeechat.bypasschatratelimit
+  permit bronze hk.siggi.bungeechat.chat.color.vanilla
+  permit bronze hk.siggi.bungeechat.mcbanexempt
+  
+  permit silver hk.siggi.bungeechat.nick
+
+  permit gold hk.siggi.bungeechat.chat.format
 
   permit helper cubebuilders.staffchat
   permit helper hk.siggi.bungeechat.punishmentalert
