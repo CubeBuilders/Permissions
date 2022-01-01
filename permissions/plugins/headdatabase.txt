@@ -1,4 +1,4 @@
 if plugin HeadDatabase
   if server == creative
-    permit plus headdb.open
+    permit gold headdb.open
 
