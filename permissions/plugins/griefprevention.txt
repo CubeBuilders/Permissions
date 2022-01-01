@@ -3,7 +3,7 @@ if plugin GriefPrevention
   permit default -griefprevention.buysellclaimblocks
   permit default griefprevention.lava
 
-  permit plus griefprevention.seeinactivity
+  permit bronze griefprevention.seeinactivity
 
   permit moderator griefprevention.seeinactivity
   permit moderator griefprevention.eavesdropsigns
