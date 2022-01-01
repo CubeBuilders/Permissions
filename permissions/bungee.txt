@@ -10,10 +10,12 @@ if server == bungee
   permit bronze hk.siggi.bungeechat.bypasschatratelimit
   permit bronze hk.siggi.bungeechat.chat.color.vanilla
   permit bronze hk.siggi.bungeechat.mcbanexempt
-  
+
   permit silver hk.siggi.bungeechat.nick
 
   permit gold hk.siggi.bungeechat.chat.format
+
+  permit platinum hk.siggi.bungeechat.chat.color.hex
 
   permit helper cubebuilders.staffchat
   permit helper hk.siggi.bungeechat.punishmentalert
