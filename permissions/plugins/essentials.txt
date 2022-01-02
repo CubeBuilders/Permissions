@@ -46,10 +46,12 @@ if plugin Essentials
 
   permit gold essentials.keepxp
   permit gold essentials.sethome.multiple.gold
+  if server == skyblock
+    permit gold essentials.fly
 
   permit platinum essentials.me
   permit platinum essentials.hat
-  if server == hub
+  if server match (hub|minigames)
     permit platinum essentials.fly
 
   permit helper essentials.vanish.see
