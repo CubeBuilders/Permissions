@@ -2,11 +2,11 @@ member		default		Guest		#6b6b6b
 member		member		Member		#4fb857
 member		retired		Member		#4fb857
 member		builder		Builder		#34ebbd
-member      bronze      Bronze      #aa7004
+member		bronze		Bronze		#aa7004
 member		silver		Silver		#a0b2c6
 member		gold		Gold		#d4af37
 member		platinum	Platinum	#d0f6ff
-member      builder     Builder     #7fe984
+member		builder		Builder		#7fe984
 
 staff		helper		Helper		#3458eb
 staff		moderator	Moderator	#8b5de8
