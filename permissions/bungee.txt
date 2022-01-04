@@ -41,6 +41,7 @@ if server == bungee
   permit moderator hk.siggi.bungeechat.seenip
   permit moderator hk.siggi.bungeechat.nick
   permit moderator hk.siggi.bungeechat.chat.color
+  permit moderator hk.siggi.bungeechat.chat.color.hex
   permit moderator hk.siggi.bungeechat.chat.format
   permit moderator hk.siggi.bungeechat.chat.magic
   permit moderator hk.siggi.bungeechat.chat.commandlink
