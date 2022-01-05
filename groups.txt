@@ -1,10 +1,10 @@
 member		default		Guest		#6b6b6b
-member		member		Member		#4fb857
+member		member		Member		#19d544
 member		retired		Member		#4fb857
 member		builder		Builder		#34ebbd
 member		bronze		Bronze		#aa7004
 member		silver		Silver		#a0b2c6
-member		gold		Gold		#d4af37
+member		gold		Gold		#f0ca4f
 member		platinum	Platinum	#d0f6ff
 member		builder		Builder		#7fe984
 
@@ -12,5 +12,5 @@ staff		helper		Helper		#3458eb
 staff		moderator	Moderator	#8b5de8
 staff		admin		Admin		#ed6660
 staff		manager		Manager		#69f5de
-staff		coowner		Co-Owner	#d269ee
-staff		owner		Owner		#d269ee
+staff		coowner		Co-Owner	#ea6ff2
+staff		owner		Owner		#ea6ff2
