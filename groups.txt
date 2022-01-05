@@ -1,6 +1,6 @@
 member		default		Guest		#6b6b6b
 member		member		Member		#19d544
-member		retired		Member		#4fb857
+member		retired		Member		#19d544
 member		builder		Builder		#34ebbd
 member		bronze		Bronze		#aa7004
 member		silver		Silver		#a0b2c6
