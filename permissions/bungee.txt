@@ -56,7 +56,7 @@ if server == bungee
   permit admin hk.siggi.bungeechat.passthrough
   permit admin hk.siggi.bungeechat.setgroup
   permit admin bungeecord.command.alert
-  
+
   permit manager hk.siggi.bungeecord.setrank
   permit manager hk.siggi.bungeechat.strike
 
