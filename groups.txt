@@ -4,13 +4,13 @@ member		retired		Member		#19d544
 member		builder		Builder		#34ebbd
 member		bronze		Bronze		#aa7004
 member		silver		Silver		#a0b2c6
-member		gold		Gold		#f0ca4f
+member		gold		Gold		#ffbb2c
 member		platinum	Platinum	#d0f6ff
 member		builder		Builder		#7fe984
 
 staff		helper		Helper		#6a96ea
 staff		moderator	Moderator	#8b5de8
 staff		admin		Admin		#ed6660
-staff		manager		Manager		#69f5de
+staff		manager		Manager		#7cf7d2
 staff		coowner		Co-Owner	#ea6ff2
 staff		owner		Owner		#ea6ff2
