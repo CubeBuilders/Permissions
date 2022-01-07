@@ -8,7 +8,7 @@ member		gold		Gold		#f0ca4f
 member		platinum	Platinum	#d0f6ff
 member		builder		Builder		#7fe984
 
-staff		helper		Helper		#3458eb
+staff		helper		Helper		#6a96ea
 staff		moderator	Moderator	#8b5de8
 staff		admin		Admin		#ed6660
 staff		manager		Manager		#69f5de
