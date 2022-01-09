@@ -2,7 +2,7 @@ member		default		Guest		#6b6b6b
 member		member		Member		#19d544
 member		retired		Member		#19d544
 member		builder		Builder		#34ebbd
-member		bronze		Bronze		#aa7004
+member		bronze		Bronze		#c4661c
 member		silver		Silver		#a0b2c6
 member		gold		Gold		#ffbb2c
 member		platinum	Platinum	#d0f6ff
