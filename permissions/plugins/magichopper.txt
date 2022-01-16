@@ -1,2 +1,16 @@
 if plugin MagicHopper
   permit silver magichopper.use
+  permit silver magichopper.type.allow
+  permit silver magichopper.type.block
+
+  permit gold magichopper.type.compact
+  permit gold magichopper.type.count
+  permit gold magichopper.type.matchfurnace
+  permit gold magichopper.type.skip
+  permit gold magichopper.type.autodrop
+  if server == creative
+    permit gold magichopper.type.duplicate
+
+  permit admin magichopper.use
+  permit admin magichopper.type.standard
+  permit admin magichopper.type.duplicate
