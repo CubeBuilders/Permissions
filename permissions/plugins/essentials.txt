@@ -149,6 +149,8 @@ if plugin Essentials
   permit admin essentials.spawn.others
   permit admin essentials.setspawn
   permit admin essentials.item
+  permit admin essentials.itemspawn
+  permit admin essentials.itemspawn.*
   permit admin essentials.enchant
   permit admin essentials.enchantments.*
   permit admin essentials.exp
