@@ -1,0 +1,2 @@
+if plugin ItemStackSerializer
+  permit manager hk.siggi.serializer.use
