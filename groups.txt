@@ -9,7 +9,7 @@ member		platinum	Platinum	#d0f6ff
 member		builder		Builder		#7fe984
 
 staff		helper		Helper		#6a96ea
-staff		moderator	Moderator	#8b5de8
+staff		moderator	Moderator	#eee66e
 staff		admin		Admin		#ed6660
 staff		manager		Manager		#7cf7d2
 staff		coowner		Co-Owner	#ea6ff2
