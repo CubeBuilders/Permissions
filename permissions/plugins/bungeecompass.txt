@@ -2,4 +2,8 @@ if plugin BungeeCompass
   permit default bungeecompass.givecompass
   permit default bungeecompass.menu
   
+  permit silver bungeecompass.beta
+  
+  permit helper bungeecompass.beta
+  
   permit manager bungeecompass.reload
