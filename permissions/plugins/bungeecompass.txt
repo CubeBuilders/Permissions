@@ -2,7 +2,7 @@ if plugin BungeeCompass
   permit default bungeecompass.givecompass
   permit default bungeecompass.menu
   
-  permit silver bungeecompass.beta
+  permit bronze bungeecompass.beta
   
   permit helper bungeecompass.beta
   
