@@ -12,5 +12,5 @@ if server != bungee
   permit admin bukkit.command.version
   permit admin bukkit.command.plugins
   permit admin minecraft.command.effect
-  permit owner minecraft.command.op
-
+  
+  permit manager minecraft.command.op
