@@ -87,7 +87,6 @@ if plugin Essentials
   permit admin essentials.setwarp
   permit admin essentials.delwarp
   permit admin essentials.vanish.others
-  permit admin essentials.vanish.effect
   permit admin essentials.vanish
   permit admin essentials.remove
   permit admin essentials.feed
