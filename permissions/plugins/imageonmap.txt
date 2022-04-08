@@ -1,0 +1,2 @@
+if plugin ImageOnMap
+  permit admin imageonmap.*
