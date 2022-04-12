@@ -8,6 +8,11 @@ member		gold		Gold		#ffbb2c
 member		platinum	Platinum	#d0f6ff
 member		builder		Builder		#7fe984
 
+member		legacyiron	Iron		gray
+member		legacygold	Gold		gold
+member		legacydiamond	Diamond	aqua
+member		legacyemerald	Emerald	green
+
 staff		helper		Helper		#6a96ea
 staff		moderator	Moderator	#eee66e
 staff		admin		Admin		#ed6660
