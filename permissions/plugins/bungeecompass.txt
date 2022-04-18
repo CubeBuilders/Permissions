@@ -1,6 +1,5 @@
 if plugin BungeeCompass
   permit default bungeecompass.givecompass
   permit default bungeecompass.menu
-  permit default bungeecompass.beta
   
   permit manager bungeecompass.reload
