@@ -2,7 +2,6 @@ if plugin Essentials
   permit default essentials.realname
   permit default essentials.worth
   permit default essentials.help
-  permit default essentials.list
   permit default essentials.recipe
   permit default essentials.rules
   if server match (factions|skyblock)
@@ -66,7 +65,6 @@ if plugin Essentials
   permit moderator essentials.heal
   permit moderator essentials.chat.ignoreexempt
   permit moderator essentials.near
-  permit moderator essentials.list.hidden
   permit moderator essentials.enderchest
   permit moderator essentials.enderchest.others
   permit moderator essentials.invsee
