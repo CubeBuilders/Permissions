@@ -4,6 +4,8 @@ if plugin MagicHopper
   permit silver magichopper.type.block
 
   permit gold magichopper.type.compact
+  permit gold magichopper.type.slice
+  permit gold magichopper.type.dice
   permit gold magichopper.type.count
   permit gold magichopper.type.matchfurnace
   permit gold magichopper.type.skip
