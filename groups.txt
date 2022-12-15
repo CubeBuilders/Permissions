@@ -6,7 +6,7 @@ member		bronze		Bronze		#c4661c
 member		silver		Silver		#a0b2c6
 member		gold		Gold		#ffbb2c
 member		platinum	Platinum	#d0f6ff
-member		builder		Builder		#7fe984
+member		builder		Builder		#ed9f60
 
 member		legacyiron	Iron		gray
 member		legacygold	Gold		gold
@@ -14,8 +14,8 @@ member		legacydiamond	Diamond	aqua
 member		legacyemerald	Emerald	green
 
 staff		helper		Helper		#6a96ea
-staff		moderator	Moderator	#eee66e
-staff		admin		Admin		#ed6660
+staff		moderator	Moderator	#7fe984
+staff		admin		Admin		#eee66e
 staff		manager		Manager		#7cf7d2
 staff		coowner		Co-Owner	#ea6ff2
 staff		owner		Owner		#ea6ff2
