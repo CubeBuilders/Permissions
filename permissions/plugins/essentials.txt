@@ -39,6 +39,7 @@ if plugin Essentials
   if server == creative
     permit bronze essentials.skull
     permit bronze essentials.skull.*
+    permit bronze essentials.enderchest
 
   permit silver essentials.teleport.timer.bypass
   permit silver essentials.sethome.multiple
