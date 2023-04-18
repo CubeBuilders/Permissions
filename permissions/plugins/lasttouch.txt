@@ -1,0 +1,2 @@
+if plugin LastTouch
+  permit moderator lasttouch.inspect
