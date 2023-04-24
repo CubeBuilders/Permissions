@@ -26,6 +26,8 @@ if server == bungee
   permit helper hk.siggi.bungeechat.shadowmute
   permit helper hk.siggi.bungeechat.mcbanexempt
   permit helper hk.siggi.bungeechat.ignoreexempt
+  permit helper hk.siggi.bungeechat.clearchatimmunity
+  permit helper hk.siggi.bungeechat.clearchat
 
   permit moderator hk.siggi.bungeechat.bypasschatratelimit
   permit moderator hk.siggi.bungeechat.groupchatbypass
