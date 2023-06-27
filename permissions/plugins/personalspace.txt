@@ -8,4 +8,5 @@ if plugin PersonalSpace
   permit builder hk.siggi.personalspace.maxspaces.unlimited
   permit moderator hk.siggi.personalspace.worldedit
   permit admin hk.siggi.personalspace.maxspaces.unlimited
+  permit moderator hk.siggi.personalspace.teleportbypass
   permit admin hk.siggi.personalspace.bypass
