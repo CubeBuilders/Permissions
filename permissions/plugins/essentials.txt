@@ -45,6 +45,7 @@ if plugin Essentials
   permit silver essentials.sethome.multiple
   permit silver essentials.pweather
   permit silver essentials.ptime
+  permit silver essentials.signs.color
 
   permit gold essentials.keepxp
   permit gold essentials.sethome.multiple.gold
