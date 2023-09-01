@@ -7,6 +7,8 @@ if plugin Essentials
   if server match (factions|skyblock)
     permit default essentials.suicide
   permit default essentials.ping
+  permit default essentials.ptime
+  permit default essentials.pweather
   permit default essentials.tpa
   permit default essentials.tpaccept
   permit default essentials.tpdeny
@@ -43,8 +45,6 @@ if plugin Essentials
 
   permit silver essentials.teleport.timer.bypass
   permit silver essentials.sethome.multiple
-  permit silver essentials.pweather
-  permit silver essentials.ptime
   permit silver essentials.signs.color
 
   permit gold essentials.keepxp
