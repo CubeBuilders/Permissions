@@ -176,4 +176,5 @@ if plugin Essentials
   permit admin essentials.spawnmob.*
   permit admin essentials.skull
   permit admin essentials.skull.*
-
+  permit admin essentials.editsign
+  permit admin essentials.editsign.*
