@@ -17,5 +17,5 @@ staff		helper		Helper		#6a96ea
 staff		moderator	Moderator	#7fe984
 staff		admin		Admin		#eee66e
 staff		manager		Manager		#7cf7d2
-staff		coowner		Co-Owner	#ea6ff2
-staff		owner		Owner		#ea6ff2
+staff		coowner		Co-Owner	#c774fb
+staff		owner		Owner		#c774fb
