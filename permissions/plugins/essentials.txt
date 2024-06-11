@@ -67,6 +67,7 @@ if plugin Essentials
   permit moderator essentials.fly
   permit moderator essentials.god
   permit moderator essentials.heal
+  permit moderator essentials.home.others
   permit moderator essentials.chat.ignoreexempt
   permit moderator essentials.near
   permit moderator essentials.enderchest
